@@ -4,6 +4,6 @@ googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "OpsGeek Tech"
+title = "OpsGeek"
 [markup.goldmark.renderer]
 unsafe = true
