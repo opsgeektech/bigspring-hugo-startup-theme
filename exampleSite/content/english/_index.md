@@ -2,9 +2,7 @@
 banner:
   title: DevOps Solutions
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Moving from Physical DataCenters to Cloud made easy
   button:
     enable: true
     label: Contact With Us
