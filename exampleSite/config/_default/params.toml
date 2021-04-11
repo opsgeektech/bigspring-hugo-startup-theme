@@ -1,7 +1,7 @@
 author = ""
 contact_form_action = "#"
 description = "This is meta description"
-logo = "images/3.jpg"
+logo = "images/1.jpg"
 logo_width = "240px"
 [navigation_button]
 enable = true
