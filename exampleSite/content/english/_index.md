@@ -15,9 +15,9 @@ feature:
   - name: DevOps Solutions
     icon: fas fa-code
     content: 'DevOps goes hand in hand with Agile. '
-  - name: Object Oriented
+  - name: Infrastructure Monitoring
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Developing a monitoring dashboard
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
