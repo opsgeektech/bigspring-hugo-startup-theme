@@ -2,7 +2,7 @@ author = ""
 contact_form_action = "#"
 description = "This is meta description"
 logo = "images/luxury-real-estate-logo.jpg"
-logo_width = "200px"
+logo_width = "300px"
 [navigation_button]
 enable = true
 label = "Get Started"
