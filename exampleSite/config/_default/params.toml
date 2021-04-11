@@ -2,7 +2,7 @@ author = ""
 contact_form_action = "#"
 description = "This is meta description"
 logo = "images/3.jpg"
-logo_width = "300px"
+logo_width = "240px"
 [navigation_button]
 enable = true
 label = "Get Started"
