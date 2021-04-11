@@ -2,7 +2,8 @@
 banner:
   title: DevOps Solutions
   image: images/banner-art.svg
-  content: Moving from Physical DataCenters to Cloud made easy
+  content: We are team of Operations Geeks, who not only has the expertise but also
+    the passion to help companies to help move forward towards digital transformation.
   button:
     enable: true
     label: Contact With Us
