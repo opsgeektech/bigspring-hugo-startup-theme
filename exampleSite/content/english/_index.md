@@ -12,15 +12,15 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Testing Automation
-    icon: fas fa-search
-    content: Automating test cases will save enormous amount of time and energy.
   - name: DevOps Solutions
     icon: fas fa-code
     content: 'DevOps goes hand in hand with Agile. '
   - name: Infrastructure Monitoring
     icon: fas fa-object-group
     content: Developing a monitoring dashboard
+  - name: Testing Automation
+    icon: fas fa-search
+    content: Automating test cases will save enormous amount of time and energy.
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
