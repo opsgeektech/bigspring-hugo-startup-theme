@@ -12,6 +12,9 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
+  - name: Infrastructure Security
+    icon: fas fa-shield-alt
+    content: Infrastructure security is the need of the hour.
   - name: DevOps Solutions
     icon: fas fa-code
     content: 'DevOps goes hand in hand with Agile. '
