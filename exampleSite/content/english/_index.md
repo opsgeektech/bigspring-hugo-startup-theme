@@ -12,29 +12,32 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Infrastructure Security
-    icon: fas fa-shield-alt
-    content: Infrastructure security is the need of the hour.
+  - name: Cloud Support
+    icon: fas fa-cloud
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: DevOps Solutions
     icon: fas fa-code
     content: 'DevOps goes hand in hand with Agile. '
-  - name: Infrastructure Monitoring
-    icon: fas fa-object-group
-    content: Developing a monitoring dashboard
+  - name: Infrastructure Automation
+    icon: fas fa-robot
+    content: Automating infrastructure does saves the company from disasters.
+  - name: Infrastructure Security
+    icon: fas fa-shield-alt
+    content: Infrastructure security is the need of the hour.
   - name: Testing Automation
     icon: fas fa-search
     content: Automating test cases will save enormous amount of time and energy.
-  - name: 24h Service
-    icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Infrastructure Monitoring
+    icon: fas fa-object-group
+    content: Developing a monitoring dashboard
   - name: Value For Money
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: fas fa-cloud
+  - name: 24h Service
+    icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
